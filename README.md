@@ -1,2 +1,2 @@
-# ClassificarFilmes
-Classificação de filmes com base no histórico do usuário. Algoritmo não supervisionado
+# Movies classifier
+Project developed to classify movies using Unsupervised learning techniques in Python.
